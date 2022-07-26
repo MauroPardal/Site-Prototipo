@@ -3,6 +3,7 @@
 :root {
   --color-green: #0011ff;
   --color-site:  #bb7c1f8a;
+  --color-lima: #D51CEB;
 }
 
 * { /* Este seletor "*" alcança todos os elementos existentes no html */
@@ -81,7 +82,7 @@ header {
   color: var(--color-green);
 }
 #links-footer a {
-  border-bottom: 3px solid var(--color-green); /* Coloca o underline nos links */
+  border-bottom: 3px solid var(--color-lima); /* Coloca o underline nos links */
                                                /* GitHub e Linkedin ao não colocar */
                                                /* o text-decoration: none, como foi*/
                                                /* colocado no seletor ".links a" */          
