@@ -87,7 +87,7 @@ header {
                                                /* o text-decoration: none, como foi*/
                                                /* colocado no seletor ".links a" */          
 }
-#red {color: rgb (213, 28, 235, 92) }
+#red {color: rgb(224, 216, 88) }
 
 #wrapper img:hover{
   -webkit-transform: scale(1.05);
